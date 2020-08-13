@@ -3,12 +3,10 @@
 
 ## Our Goal
 
-The objective of this challenge is to solidify what you've learn't in the Dicee tutorial. This app will guide you through the steps required to build an 8 ball app and you will be applying what you have learnt about Stateless and Stateful Flutter widgets.
+Tujuan dari tantangan ini adalah untuk memperkuat apa yang tidak Anda pelajari dalam tutorial Dicee. Aplikasi ini akan memandu Anda melalui langkah-langkah yang diperlukan untuk membuat aplikasi 8 bola dan Anda akan menerapkan apa yang telah Anda pelajari tentang widget Stateless dan Stateful Flutter.
 
 
-## What you will create
-
-We’re going to make a magical 8 ball app, it will give you the answers to all the tricky questions in life. You can make the ball change at the press of a button. 
+Hasil yang akan dibuat akan mirip seperti dan ini lah tantangan saya dalam belajar membuat suatu aplikasi. 
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/8-ball-flutter-gif.gif)
 
